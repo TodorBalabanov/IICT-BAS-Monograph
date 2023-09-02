@@ -30,4 +30,5 @@
  <manifest:file-entry manifest:full-path="Pictures/100000010000023F0000020AF4B42A21486DCAE3.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/100000010000064A0000030E180B89FD985739EE.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/1000000100000335000001DCDB7BC7E6AA5645AD.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/1000000100000276000002430991FFA5714E2F9F.png" manifest:media-type="image/png"/>
 </manifest:manifest>

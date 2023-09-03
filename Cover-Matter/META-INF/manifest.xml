@@ -9,5 +9,7 @@
  <manifest:file-entry manifest:full-path="content.xml" manifest:media-type="text/xml"/>
  <manifest:file-entry manifest:full-path="Thumbnails/thumbnail.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/1000000100000582000008CACD171B0C35F0517A.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/1000000100000091000000A587A1CB87F905D03A.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/1000000100000582000008CAFDC56E2C6D9122C1.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000001000000E2000000648730F2442DC1CCF3.png" manifest:media-type="image/png"/>
 </manifest:manifest>

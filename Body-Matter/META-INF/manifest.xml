@@ -28,6 +28,8 @@
  <manifest:file-entry manifest:full-path="Pictures/1000000100000335000001DCDB7BC7E6AA5645AD.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/1000000100000276000002430991FFA5714E2F9F.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/1000000000000404000002F557A75994DDEDD677.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/100000000000036200000231C3F786A1AC5A613C.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/1000000000000319000003061E3B29D22DFED0EC.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="meta.xml" manifest:media-type="text/xml"/>
  <manifest:file-entry manifest:full-path="settings.xml" manifest:media-type="text/xml"/>
  <manifest:file-entry manifest:full-path="styles.xml" manifest:media-type="text/xml"/>

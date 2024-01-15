@@ -6,6 +6,12 @@
  <manifest:file-entry manifest:full-path="Pictures/10000000000009B100000DB3DDA0840BF3B15E0A.jpg" manifest:media-type="image/jpeg"/>
  <manifest:file-entry manifest:full-path="Pictures/10000000000009F300000DB3BCFC6A972D4FF810.jpg" manifest:media-type="image/jpeg"/>
  <manifest:file-entry manifest:full-path="Pictures/10000000000009F300000DB32D22E1603511A05A.jpg" manifest:media-type="image/jpeg"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000001000009B000000DB4150C02F41B69604D.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000000000009F300000DB395BC64EB154818ED.jpg" manifest:media-type="image/jpeg"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000001000009B000000DB4A0CBDB14A228185C.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000001000009B000000DB465141EEA749A8A61.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000000000009F300000DB3CEF77A5D2322D82C.jpg" manifest:media-type="image/jpeg"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000000000009F300000DB3D3CB710EE324CBC4.jpg" manifest:media-type="image/jpeg"/>
  <manifest:file-entry manifest:full-path="meta.xml" manifest:media-type="text/xml"/>
  <manifest:file-entry manifest:full-path="settings.xml" manifest:media-type="text/xml"/>
  <manifest:file-entry manifest:full-path="styles.xml" manifest:media-type="text/xml"/>
